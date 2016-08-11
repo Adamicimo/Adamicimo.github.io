@@ -4,7 +4,7 @@
  * L&T quote generator
  */
 
-var things = ["Adam", "Art", "Dance", "Theater", "Math", "Architecture"];
+var things = ["Psychology", "Art", "Dance", "Theater", "Math", "Architecture"];
 var programmers = ["psychologist", "artist", "choreographer", "director", "mathematician", "architect"]
 var castles = ["Castle", "bridges", "cities"]
 var exertions = ["labor", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
