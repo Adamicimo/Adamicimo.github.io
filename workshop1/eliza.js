@@ -29,19 +29,19 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "How do you do,Adam . Please state your problem."
   ],
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "Do computers worry you, Adam?",
+    "What do you think about machines have to do with your problem, Adam?",
+    "Don't you think computers can help people, Adam?",
+    "Why do you mention computers, Adam?",
+    "What about computers worries you, Adam?",
+    "What do you think about computers, Adam?",
+    "What do you think machines have to do with your problem, Adam?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I am not interested in names, Adam",
   ],
   "~*x sorry ~*y": [
     "Please don't apologize",
